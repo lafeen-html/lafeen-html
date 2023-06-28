@@ -1,6 +1,7 @@
 <kbd>
 <div align="center">
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm <a href="" target="_blank">Natalia</a></h1>
+<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" style="background: transparent"/>, I'm <a href="" target="_blank">Natalia</a></h1>
+  
 <h3>Frontend developer</h3>
 
 <p>👨‍💻 All of my projects are available <a href="https://github.com/lafeen-html?tab=repositories" target="_blank">HERE</a></p>
