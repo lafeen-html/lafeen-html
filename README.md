@@ -1,3 +1,4 @@
+<kbd>
 <div align="center">
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm <a href="" target="_blank">Natalia</a></h1>
 <h3>Frontend developer</h3>
@@ -21,6 +22,11 @@
 <img alt="Bootstrap" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
+<br/>
+<br/>
+<br/>
+<br/>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=lafeen-html&style=flat-square&color=blue" alt=""/></p>
 
 </div>
+</kbd>
