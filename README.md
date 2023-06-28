@@ -4,6 +4,7 @@
 
 <p>🌱 I’m currently learning <strong>React, Redux, TypeScript</strong></p>
 <p>👨‍💻 All of my projects are available <a href="https://github.com/lafeen-html?tab=repositories" target="_blank">HERE</a></p>
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 <h3>:fire: My Stats :</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lafeen-html&" alt="lafeen-html" /></p>
