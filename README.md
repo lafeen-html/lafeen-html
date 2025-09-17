@@ -10,7 +10,7 @@
 <h3>:fire: My Stats :</h3>
 <p><img align="center" <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lafeen-html" alt="GitHub Streak" /></a> alt="lafeen-html" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lafeen-html" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lafeen-html&" alt="GitHub Streak" /></a>
 
 <h3>:hammer_and_wrench: Languages and Tools:</h3>
 
