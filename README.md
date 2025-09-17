@@ -10,8 +10,6 @@
 <h3>:fire: My Stats :</h3>
 <p><img align="center" src="[https://streak-stats.demolab.com/?user=](https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=)lafeen-html" alt="lafeen-html" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=lafeen-html&" alt="GitHub Streak" /></a>
-
 <h3>:hammer_and_wrench: Languages and Tools:</h3>
 
 <img alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
